@@ -2,4 +2,4 @@ name: RegrowthNpCs
 version: ${project.version}
 main: org.lushplugins.regrowthnpcs.RegrowthNpCs
 api-version: '1.21'
-github-repo: ProjectOwner/RegrowthNpCs
+github-repo: RegrowthMC/RegrowthNpCs
