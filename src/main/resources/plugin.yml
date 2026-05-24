@@ -1,5 +1,5 @@
-name: RegrowthNpCs
+name: RegrowthNPCs
 version: ${project.version}
-main: org.lushplugins.regrowthnpcs.RegrowthNpCs
+main: org.lushplugins.regrowthnpcs.RegrowthNPCs
 api-version: '1.21'
-github-repo: RegrowthMC/RegrowthNpCs
+github-repo: RegrowthMC/RegrowthNPCs
