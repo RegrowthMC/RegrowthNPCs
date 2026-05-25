@@ -23,7 +23,7 @@ dependencies {
     compileOnly("com.github.retrooper:packetevents-spigot:2.11.3-SNAPSHOT")
 
     // Libraries
-    implementation("io.github.tofaa2:spigot:3.1.0-SNAPSHOT")
+    implementation("io.github.tofaa2:spigot:3.3.2-SNAPSHOT")
     implementation("org.lushplugins:ConfigurableNPCs:0.0.16")
     implementation("org.lushplugins:LushLib:1.0.0")
     implementation("org.lushplugins.guihandler:GuiHandler:3.0.1")
