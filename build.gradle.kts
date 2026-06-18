@@ -28,8 +28,8 @@ dependencies {
     implementation("org.lushplugins:LushLib:1.0.0")
     implementation("org.lushplugins.guihandler:GuiHandler:3.0.1")
     implementation("org.lushplugins.guihandler:GuiHandler-config:3.0.1")
-    implementation("io.github.revxrsal:lamp.common:4.0.0-rc.16")
-    implementation("io.github.revxrsal:lamp.bukkit:4.0.0-rc.16")
+    implementation("io.github.revxrsal:lamp.common:4.0.0-rc.17")
+    implementation("io.github.revxrsal:lamp.bukkit:4.0.0-rc.17")
 }
 
 java {
